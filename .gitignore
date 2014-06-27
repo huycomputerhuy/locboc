@@ -25,4 +25,3 @@ config/secrets.yml
 .rvmrc
 /app/lib
 /node_modules/
-//
